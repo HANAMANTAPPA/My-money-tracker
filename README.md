@@ -1,7 +1,7 @@
 # Frontend
   - change directry to Frontend 
   - install all required packages
-  - then run the command < npm start > it will run node js on port 3000
+  - then run the command < npm start > it will run React js on port 3000
 # Backend  
   - change directry to Backend
   - install all required packages
