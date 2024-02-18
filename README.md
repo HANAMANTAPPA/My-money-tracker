@@ -15,4 +15,4 @@
 ![expense](https://github.com/HANAMANTAPPA/My-money-tracker/assets/48180907/259890f3-e6b3-412b-bf1d-11ce269820ac)
 
 
-@thanks **Code dealer** for help
+@thanks **Code dealer**  
